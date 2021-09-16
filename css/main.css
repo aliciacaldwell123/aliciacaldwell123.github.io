@@ -18,6 +18,9 @@ a {
 }
 a:hover {
     text-decoration: underline;
+} 
+    text-align: {
+        center; 
 }
 h1 {
     font-size: 3em;
